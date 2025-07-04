@@ -5,11 +5,24 @@
 }
 
 .main-logo {
-    height: 50px;
-    width: 50px;
-    background-image: url(https://picsum.photos/200);
+    height: 60px;
+    width: 60px;
+    background-image: url(/assets/foto.png);
     background-size: cover;
     border-radius: 50%;
+    margin-left: 20px;
+}
+
+.banner-logo {
+    height: 250px;
+    width: 250px;
+    background-image: url(/assets/foto.png);
+    background-size: cover;
+    border-radius: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top: -15px;
 }
 
 nav {
@@ -17,8 +30,7 @@ nav {
 }
 
 nav>a {
-    border: 1px solid;
-    padding: 8px;
-    color: black;
+    padding: 15px;
+    color: rgb(42, 42, 42);
     text-decoration: none;
 }
