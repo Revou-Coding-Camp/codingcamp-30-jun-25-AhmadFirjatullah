@@ -7,12 +7,24 @@
 .main-logo {
     height: 60px;
     width: 60px;
+<<<<<<< HEAD
+=======
+    background-image: url(./assets/foto.png);
+    background-size: cover;
+    border-radius: 50%;
+>>>>>>> 490c9436de21dc7237df8b115de669ce2118228f
     margin-left: 20px;
 }
 
 .banner-logo {
     height: 250px;
     width: 250px;
+<<<<<<< HEAD
+=======
+    background-image: url(./assets/foto.png);
+    background-size: cover;
+    border-radius: 50%;
+>>>>>>> 490c9436de21dc7237df8b115de669ce2118228f
     margin-right: auto;
     margin-left: auto;
     position: relative;
